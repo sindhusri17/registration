@@ -1,4 +1,2 @@
 streamlit
-gtts
-qrcode
-uuid
+pandas
